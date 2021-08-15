@@ -1,18 +1,18 @@
 let cards = [
     {
-      "imagem": "./imagens/produtos/CamisasBasquete/CamisaLakers.jpg",
+      "imagem": "./Imagens/produtos/CamisasBasquete.jpg",
       "titulo": "Camisas Basquete",
       "preco": "",
       "link": "camisas-basquete.html"
     },
     {
-      "imagem": "./imagens/produtos/Camisas59/CamisaRealBlackPink.jpg",
+      "imagem": "./Imagens/produtos/Camisas59/CamisaRealBlackPink.jpg",
       "titulo": "Camisas Futebol",
       "preco": "",
       "link": "camisas-time.html"
     },
     {
-        "imagem": "./imagens/produtos/CamisasMangaG/CamisaPSGColorida.jpg",
+        "imagem": "./Imagens/produtos/CamisasMangaG/CamisaPSGColorida.jpg",
         "titulo": "Camisas de Frio Futebol",
         "preco": "",
         "link": "camisas-frio.html"
