@@ -1,6 +1,6 @@
 let cards = [
     {
-      "imagem": "./Imagens/produtos/CamisasBasquete.jpg",
+      "imagem": "./Imagens/produtos/CamisasBasquete/CamisaLakers.jpg",
       "titulo": "Camisas Basquete",
       "preco": "",
       "link": "camisas-basquete.html"
