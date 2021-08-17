@@ -336,31 +336,28 @@ footer p{
     }
     
     .foto-lateral-direita{
-        width: 100%;
+        width: 50%;
         margin-top: 1.2rem;
         position: absolute;
         top: 60px;
-        display: flex;
+        right:8px;
         z-index: 2;
-        justify-content: flex-end;
-        padding-right: 1.2rem;
-    }
-
-    .foto-lateral-direita img{
-        height: 250px;
-        border: none;
-        width: 50%;
     }
 
     .area-lateral-esquerda{
         margin-top: 1.2rem;
+        width: 100%;
         top: 60px;
         left: 8px;
         position: absolute;
         z-index: 3;
     }
 
-    
+    .foto-lateral-direita img{
+        height: 250px;
+        width: 100%;
+        border: none;
+    }
 
     .foto-lateral-esquerda img{
         height: 250px;
