@@ -232,6 +232,24 @@ footer p{
     justify-content: center;
     align-items: center;
 }
+.pedidos{
+    font-family: 'Just Another Hand', cursive;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1.5rem;
+    
+}
+
+.QR img{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
 
 /* Fim rodapé */
 
